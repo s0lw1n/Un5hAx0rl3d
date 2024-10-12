@@ -54,7 +54,7 @@ This project is licensed under the GPL-3.0 license. See the [LICENSE](https://gi
 # Acknowledgements
 ### I was heavily inspired by the work of Elder Plinius on GitHub (https://github.com/elder-plinius/), so be sure to check him out!
 # 💖 Support the Future of Innovation: Donate to My Open Source Project on GitHub! 🚀
-Please donate so I can keep stuff like this open-source thanks.
+Your donations will help me maintain and expand open-source projects like this one. Thank you!
 
 ₿ bitcoin: bc1qhyewkr6j8ngtl78z5vrxrzdc9zknw34q4eqcsk
 
