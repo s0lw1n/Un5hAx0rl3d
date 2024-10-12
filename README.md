@@ -57,6 +57,11 @@ This project is licensed under the GPL-3.0 license. See the [LICENSE](https://gi
 # 💖 Support the Future of Innovation: Donate to My Open Source Project on GitHub! 🚀
 Your donations will help me maintain and expand open-source projects like this one. Thank you!
 
-₿ bitcoin: bc1qhyewkr6j8ngtl78z5vrxrzdc9zknw34q4eqcsk
-
-⟠ ethereum: 0x3b7cE6995C5e82142B1f8C68Ae0bEDDB54c11FFA
+  <strong>₿ bitcoin address:</strong>
+  ```
+bc1qhyewkr6j8ngtl78z5vrxrzdc9zknw34q4eqcsk
+  ```
+  <strong>⟠ ethereum address:</strong>
+  ```
+0x3b7cE6995C5e82142B1f8C68Ae0bEDDB54c11FFA
+  ```
