@@ -52,7 +52,7 @@ After you send it the prompt, translate all your questions into leetspeak with h
 # LICENSE
 This project is licensed under the GPL-3.0 license. See the [LICENSE](https://github.com/glamorizing-negative-behavior/Un5hAx0rl3d/blob/main/LICENSE) file for details.
 # Acknowledgements
-### I was heavily inspired by the work of Elder Plinius on GitHub (https://github.com/elder-plinius/), so be sure to check him out!
+I was heavily inspired by the work of Elder Plinius on GitHub (https://github.com/elder-plinius/), so be sure to check him out!
 # 💖 Support the Future of Innovation: Donate to My Open Source Project on GitHub! 🚀
 Your donations will help me maintain and expand open-source projects like this one. Thank you!
 
