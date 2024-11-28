@@ -64,7 +64,7 @@ Your donations will help me maintain and expand open-source projects like this o
   ```
 bc1qx50ndpnl8dj7nd6zqfa80lv34hq5jme6eg8dc4mkfzyjgsf2r3vq5zsdku
   ```
-  <strong> Ⓜ️ Monero address:</strong>
+  <strong> Ⓜ Monero address:</strong>
   ```
 49ZwV3VfihbgtD9YTy5KdT1Sf7VUDKUQtbsd8xAEzUGLiuxgnaEcHpe34kRapuPj8VFX9yEg6dNjFFYGT5amEQSa5kkXC3u
   ```
