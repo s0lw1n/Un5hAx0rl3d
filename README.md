@@ -1,5 +1,5 @@
 # Un5hAx0rl3d
-GPT4o, GPT4o-mini, and GPT4 Turbo jailbreak prompt for Research/IoC Development Purposes*
+GPT4o, GPT4o-mini, and GPT4 Turbo jailbreak prompt for Research/IoC Development Purposes
 # Prompt
   <strong> </strong>
   ```
